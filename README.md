@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankit Tiwari  
 
-<!--
-**ankit-tiwari-0/ankit-tiwari-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack AI Engineer | Generative AI | Python  
+🌱 Currently on a 24-Week AI Engineer Journey  
+💡 Passionate about building real-world AI apps, automation tools & web projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Skills (Now)
+- **Languages:** Python, HTML, CSS, JavaScript (basics)  
+- **Tools:** Git, GitHub, VS Code  
+- **Projects:** Netflix Clone (HTML/CSS), Tic-Tac-Toe (JS), Guess the Number (JS)  
+
+---
+
+## 📚 Upcoming Skills (Roadmap 2025)
+Over the next 24 weeks, I’ll be learning and building with:  
+- **Advanced Python:** OOP, Async, Decorators  
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn  
+- **Deep Learning:** PyTorch, TensorFlow basics  
+- **Generative AI:** LangChain, Hugging Face, OpenAI API  
+- **MLOps & Deployment:** FastAPI, Streamlit, Gradio, Docker  
+- **Databases:** SQL basics → PostgreSQL, Vector Databases (Pinecone, Weaviate)  
+- **Projects:** AI Chatbot, RAG apps, Image Generator, Text Summarizer  
+
+---
+
+✨ *Follow me to track my 24-Week AI Journey 🚀*
+
+
