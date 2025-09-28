@@ -13,7 +13,7 @@
 
 ---
 
-## 📚 Upcoming Skills (Roadmap 2025)
+## 📚 Upcoming Skills (Roadmap 2026)
 Over the next 24 weeks, I’ll be learning and building with:  
 - **Advanced Python:** OOP, Async, Decorators  
 - **Data Science & ML:** Pandas, NumPy, Scikit-learn  
