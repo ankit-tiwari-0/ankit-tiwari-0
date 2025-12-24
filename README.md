@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Web Developer (AI-Powered Web Apps)
 💻 React • Node.js • JavaScript • MERN
-🎯 Job-Ready by December 2025
+🎯 Job-Ready by December 2026
 
 I’m focused on building real-world full-stack web applications, mastering DSA for interviews, and integrating Generative AI features into web apps (practical use only).
 
