@@ -26,17 +26,7 @@ Database: MongoDB
 Tools: Git, GitHub, VS Code
 AI (Web Use): OpenAI API, Prompt Engineering
 
-📌 Projects
 
-🎬 Netflix Clone — HTML & CSS
-
-🎮 Tic-Tac-Toe — JavaScript
-
-🔢 Guess the Number — JavaScript
-
-⚛️ React Dashboard (in progress)
-
-🤖 AI-powered Web Apps (upcoming)
 
 🛣️ 6-Phase Web Development Roadmap (2025)
 
