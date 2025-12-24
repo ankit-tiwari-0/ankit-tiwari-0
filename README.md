@@ -1,30 +1,57 @@
 # 👋 Hi, I'm Ankit Tiwari  
 
-🚀 Aspiring Full-Stack AI Engineer | Generative AI | Python  
-🌱 Currently on a 24-Week AI Engineer Journey  
-💡 Passionate about building real-world AI apps, automation tools & web projects  
+🚀 Full-Stack Web Developer (AI-Powered Web Apps)
+💻 React • Node.js • JavaScript • MERN
+🎯 Job-Ready by December 2025
 
----
+I’m focused on building real-world full-stack web applications, mastering DSA for interviews, and integrating Generative AI features into web apps (practical use only).
 
-## 🔧 Current Skills (Now)
-- **Languages:** Python, HTML, CSS, JavaScript (basics)  
-- **Tools:** Git, GitHub, VS Code  
-- **Projects:** Netflix Clone (HTML/CSS), Tic-Tac-Toe (JS), Guess the Number (JS)  
+🧠 What I’m Working On
 
----
+⚛️ Modern Frontend with React
 
-## 📚 Upcoming Skills (Roadmap 2026)
-Over the next 24 weeks, I’ll be learning and building with:  
-- **Advanced Python:** OOP, Async, Decorators  
-- **Data Science & ML:** Pandas, NumPy, Scikit-learn  
-- **Deep Learning:** PyTorch, TensorFlow basics  
-- **Generative AI:** LangChain, Hugging Face, OpenAI API  
-- **MLOps & Deployment:** FastAPI, Streamlit, Gradio, Docker  
-- **Databases:** SQL basics → PostgreSQL, Vector Databases (Pinecone, Weaviate)  
-- **Projects:** AI Chatbot, RAG apps, Image Generator, Text Summarizer  
+🛠 Backend APIs using Node.js & Express
 
----
+🗄 Databases with MongoDB
 
-✨ *Follow me to track my 24-Week AI Journey 🚀*
+🤖 AI-powered web features (Chatbots, Generators, Resume Tools)
 
+📊 DSA for technical interviews
 
+🔧 Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express
+Database: MongoDB
+Tools: Git, GitHub, VS Code
+AI (Web Use): OpenAI API, Prompt Engineering
+
+📌 Projects
+
+🎬 Netflix Clone — HTML & CSS
+
+🎮 Tic-Tac-Toe — JavaScript
+
+🔢 Guess the Number — JavaScript
+
+⚛️ React Dashboard (in progress)
+
+🤖 AI-powered Web Apps (upcoming)
+
+🛣️ 6-Phase Web Development Roadmap (2025)
+
+Jan–Mar: Frontend (React)
+Apr–Jun: Backend + Full Stack (MERN)
+Jul–Aug: DSA + Interview Prep
+Sep: Generative AI for Web Apps
+Oct: Advanced Projects + Portfolio
+Nov–Dec: Off-Campus Job Hunt
+
+⏱ Daily Commitment: 10 hours/day
+
+🎯 Goal
+
+✅ Full-Stack Web Developer
+✅ Interview-ready DSA
+✅ AI-powered Projects
+✅ Off-campus Job Offer
